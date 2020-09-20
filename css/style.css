@@ -3,5 +3,13 @@ body {
 }
 
 p, img, a {
-    display: block;
+    display: block
+}
+
+h3 {
+    color: green;
+}
+
+.about-img {
+    width: 400px;
 }
