@@ -1,5 +1,5 @@
 body {
-    background: #ccc;
+    background: #fff;
 }
 
 p, img, a {
@@ -12,4 +12,7 @@ h3 {
 
 .about-img {
     width: 400px;
+}
+header h2 {
+    color: blue;
 }
