@@ -3,7 +3,7 @@ body {
 }
 
 p, img, a {
-    display: block
+    display: block;
 }
 
 h3 {
@@ -18,4 +18,9 @@ header h2 {
 }
 h1 {
     color: #000;
+}
+
+p {
+    color: green;
+    background: cornsilk
 }
