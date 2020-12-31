@@ -28,7 +28,11 @@ h1 {
     color: #000;
 }
 
-p {
-    /* color: green;
-    background: cornsilk */
+button {
+    color: green;
+    background: cornsilk;
+    margin: 20px;
+    padding: 20px;
+    border: none;
+    font-size: 20px;
 }
